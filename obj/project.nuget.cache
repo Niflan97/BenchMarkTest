@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "69bF3wwdzo94vH+ktESwBHG6b6B/BMQKMSWd63Rp8AnXrXlSirKZNPudpdhqLq5q0pcweIRykt4nvKnCsG/E3g==",
+  "success": true,
+  "projectFilePath": "/Users/niflan-mhd/RiderProjects/BenchMarkTest/BenchMarkTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/niflan-mhd/.nuget/packages/bogus/34.0.2/bogus.34.0.2.nupkg.sha512",
+    "/Users/niflan-mhd/.nuget/packages/system.diagnostics.diagnosticsource/7.0.0/system.diagnostics.diagnosticsource.7.0.0.nupkg.sha512",
+    "/Users/niflan-mhd/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
